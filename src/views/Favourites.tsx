@@ -8,6 +8,7 @@ interface FavouritesProps {}
 
 const FavouriteContainer = styled.div`
   width: 100%;
+  text-align: center;
 `;
 
 const Favourites: React.FC<FavouritesProps> = () => {
