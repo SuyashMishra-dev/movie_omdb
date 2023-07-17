@@ -17,7 +17,7 @@
   ![Movie Details Page](https://www.linkpicture.com/q/Screenshot-2023-07-17-at-22.09.56.png 'Movie Details Page')
 
 - Favorite Screen
-  ![Favorite Screen](https://www.linkpicture.com/q/Screenshot-2023-07-17-at-22.09.56.png 'Favorite Screen')
+  ![Favorite Screen](https://www.linkpicture.com/q/Screenshot-2023-07-17-at-22.10.05.png 'Favorite Screen')
 
 ## Tech
 
