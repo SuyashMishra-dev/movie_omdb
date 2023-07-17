@@ -1,46 +1,74 @@
-# Getting Started with Create React App
+# MovieDB
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Table of Contents
 
-## Available Scripts
+- [Features](#features)
+- [Tech](#tech)
+- [Installation](#installation)
+- [Contacts](#contacts)
+- [License](#license)
 
-In the project directory, you can run:
+## Features
 
-### `npm start`
+- Search New Movies
+  ![Search Movies](https://www.linkpicture.com/q/Screenshot-2023-07-17-at-22.09.32.png 'Search Movies')
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+- User can select single movie
+  ![Movie Details Page](https://www.linkpicture.com/q/Screenshot-2023-07-17-at-22.09.56.png 'Movie Details Page')
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+- Favorite Screen
+  ![Favorite Screen](https://www.linkpicture.com/q/Screenshot-2023-07-17-at-22.09.56.png 'Favorite Screen')
 
-### `npm test`
+## Tech
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- [ReactJS] - HTML enhanced for web apps!
 
-### `npm run build`
+## Prerequisites
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+The prerequisites that you have to install before using the app
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+```sh
+npm install --save
+```
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Installation
 
-### `npm run eject`
+[Node.js](https://nodejs.org/) v14+ to run.
+Install the dependencies and devDependencies and start the server.
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+### Start frontend server
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+```sh
+npm start
+```
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+Testing
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+- command to run tests in terminal
 
-## Learn More
+```sh
+npm run test
+```
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Create Build
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+- command to run tests in terminal
+
+```sh
+npm run build
+```
+
+## Contacts
+
+- Suyash Mishra [LinkedIn-Suyash] -[<suyashmishra143143@gmail.com>]
+
+## License
+
+MIT
+
+**Free Software, Hell Yeah!**
+
+[LinkedIn-Suyash]: https://www.linkedin.com/in/suyash-mishra00/
+[Jest]: https://jestjs.io/
+[React-testing-Library]: https://testing-library.com/docs/react-testing-library/intro/
+[ReactJS]: http://reactjs.org
